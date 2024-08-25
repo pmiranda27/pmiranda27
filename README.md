@@ -26,6 +26,9 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
+<br />
+<br />
+
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pmiranda27&show_icons=true&count_private=true&hide_border=true&title_color=CA0E68&icon_color=FFFFFF&text_color=df428d&bg_color=181818"/>
 
