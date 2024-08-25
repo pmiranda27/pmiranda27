@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=600&border-radius=45px&letterSpacing=1.5px&duration=3500&pause=1500&color=CA0E68&background=181818&center=true&vCenter=true&width=480&lines=Hello%2C+my+name+is+Pedro+Miranda.;I'm+a+full-stack+developer.;Looking+forward+to+working+with+you!)](https://git.io/typing-svg)
 
-<div style="display: flex;">
+<div style="display: flex; margin: 16px 0; gap: 8px; justify-content: center;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
