@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Angular projects to better understand the framework.<br>🌱 I’m currently learning Angular, but I've some experience with JavaScript, CSS, HTML and other languages.
+🔭 Currently working on a project in React JS.<br>🌱 I'm studying ReactJS, ExpressJS and FLutter at the moment, but I have experience with JavaScript, CSS, HTML and other languages.
 
 
 # 💻 Tech Stack:
