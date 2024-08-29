@@ -32,5 +32,5 @@
 <div align="center">
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pmiranda27&show_icons=true&count_private=true&hide_border=true&title_color=CA0E68&icon_color=FFFFFF&text_color=df428d&bg_color=181818"/>
 
-  <img height="170px" width="200px" src="https://github-readme-streak-stats.herokuapp.com?user=pmiranda27&hide_current_streak=true&hide_longest_streak=true&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=181818&stroke=DF428D&ring=CA0E68&currStreakLabel=CA0E68&currStreakNum=DF428D&sideNums=DF428D&sideLabels=CA0E68" />
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=pmiranda27&hide_current_streak=true&hide_longest_streak=true&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=181818&stroke=DF428D&ring=CA0E68&currStreakLabel=CA0E68&currStreakNum=DF428D&sideNums=DF428D&sideLabels=CA0E68" />
 </div>
