@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="border-radius: 20px" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&border-radius=45px&letterSpacing=1.5px&duration=3500&pause=1500&color=CA0E68&background=181818&center=true&vCenter=true&width=480&lines=Hello%2C+my+name+is+Pedro+Miranda.;I'm+a+full-stack+developer.;Looking+forward+to+working+with+you!" />
+  <img style="border-radius: 20px" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&border-radius=45px&letterSpacing=1.5px&duration=3500&pause=1500&color=CA0E68&background=181818&center=true&vCenter=true&width=480&lines=Hello%2C+my+name+is+Pedro+Miranda.;I'm+a+full-stack+developer.;Looking+forward+to+working+with+you!"/>
 </div>
 
 <br />
