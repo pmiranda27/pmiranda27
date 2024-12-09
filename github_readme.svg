@@ -1,7 +1,7 @@
-<div xmlns="http://www.w3.org/1999/xhtml"
-    style="width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center;">
-    <foreignObject style="width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center;">
-        <div style="display: flex; gap: 12px; align-items: center;">
+<svg fill="none" viewBox="0 0 320 400" width="320" height="400" xmlns="http://www.w3.org/2000/svg">
+<div xmlns="http://www.w3.org/1999/xhtml" style="width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center;">
+    <foreignObject style="width: 100%; height: 100%;">
+        <div style="display: flex; gap: 12px; align-items: center;" xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 * {
                     font-family: Tahoma, sans-serif;
@@ -30,7 +30,7 @@
                     fill="#B70F60" />
             </svg>
         </div>
-        <div style="display: flex; align-items: center; gap: 16px;">
+        <div style="display: flex; align-items: center; gap: 16px;" xmlns="http://www.w3.org/1999/xhtml">
             <style>
                 h4 {
                     color: #CD3E82;
@@ -51,12 +51,10 @@
                 I’m a full-stack developer with a burning desire to learn more about programming.
             </h4>
             <a href="https://www.linkedin.com/in/pedro-henrique-miranda-de-vasconcelos/" target="_blank">
-                <img height="35%"
-                    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+                <img height="35%" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
             </a>
 
-            <img height="35%" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white
-">
+            <img height="35%" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge" />
         </div>
         <style>
             .tabela-back {
@@ -96,19 +94,20 @@
                 </h3>
             </div>
             <div class="tech-stack">
-                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+                <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge" />
+                <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge" />
                 <img
-                    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+                    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge" />
                 <img
-                    src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+                    src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge" />
+                <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge" />
                 <img
-                    src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white">
-                <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-                <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-                <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+                    src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge" />
+                <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge" />
+                <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge" />
+                <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge" />
             </div>
         </div>
     </foreignObject>
 </div>
+</svg>
