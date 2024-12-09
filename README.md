@@ -1,36 +1,11 @@
-<div align="center">
-  <img style="border-radius: 20px" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&border-radius=45px&letterSpacing=1.5px&duration=3500&pause=1500&color=CA0E68&background=181818&center=true&vCenter=true&width=480&lines=Hello%2C+my+name+is+Pedro+Miranda.;I'm+a+full-stack+developer.;Looking+forward+to+working+with+you!"/>
-</div>
-
-<br />
-
-<div style="display: flex;" align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-<br />
-<br />
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pmiranda27&show_icons=true&count_private=true&hide_border=true&title_color=CA0E68&icon_color=FFFFFF&text_color=df428d&bg_color=181818"/>
-
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=pmiranda27&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=181818&stroke=DF428D&ring=CA0E68&currStreakLabel=CA0E68&currStreakNum=DF428D&sideNums=DF428D&sideLabels=CA0E68" />
+<div style="width: 100%; height: 100%; display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; gap: 12px;">
+    <h3 color="#B70F60">Hello, I'm Pedro Miranda!</h3>
+    <svg width="50" height="50" color="#B70F60" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M31.5156 29.6875L27.4687 33.7344L29.6875 35.9375L35.9375 29.6875L29.6875 23.4375L27.4687 25.6406L31.5156 29.6875ZM18.4844 29.6875L22.5313 25.6406L20.3125 23.4375L14.0625 29.6875L20.3125 35.9375L22.5313         33.7344L18.4844 29.6875Z" fill="#B70F60"/>
+      <path d="M14.0625 14.0625C14.9254 14.0625 15.625 13.3629 15.625 12.5C15.625 11.6371 14.9254 10.9375 14.0625 10.9375C13.1996 10.9375 12.5 11.6371 12.5 12.5C12.5 13.3629 13.1996 14.0625 14.0625 14.0625Z"         fill="#B70F60"/>
+      <path d="M9.375 14.0625C10.2379 14.0625 10.9375 13.3629 10.9375 12.5C10.9375 11.6371 10.2379 10.9375 9.375 10.9375C8.51206 10.9375 7.8125 11.6371 7.8125 12.5C7.8125 13.3629 8.51206 14.0625 9.375 14.0625Z" fill="#B70F60"/>
+      <path d="M43.75 6.25H6.25C4.52656 6.25 3.125 7.65313 3.125 9.375V40.625C3.125 42.3484 4.52656 43.75 6.25 43.75H43.75C45.4734 43.75 46.875 42.3484 46.875 40.625V9.375C46.875 7.65313 45.4734 6.25 43.75 6.25ZM43.75 9.375V15.625H6.25V9.375H43.75ZM6.25 40.625V18.75H43.75V40.625H6.25Z" fill="#B70F60"/>
+    </svg>
+  </div>
 </div>
