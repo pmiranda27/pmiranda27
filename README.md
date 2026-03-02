@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<br />
 <p align="left"> 
   My name is Pedro Miranda and I’m a developer passionate about technology and turning ideas into practical solutions.
   
@@ -8,6 +9,11 @@
   Currently, I’m studying in the Technology field and working on personal projects to deepen my knowledge in software architecture, service integrations, and scalable application development. I’m constantly learning and improving my technical skills with every new challenge.
 </p>
 
+<br />
+<br />
+
+<h3>STACK:</h3>
+<br />
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
@@ -34,9 +40,11 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
+<br />
+<br />
+<h3>Work Environment:</h3>
+<br />
 <p align="left">
-  Work Environment:
-  
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
@@ -48,10 +56,13 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </p>
 
+<br />
+<br />
 <p align="left">
   Contact me:
 </p>
 
+<br />
 <p align="left">
   <a href="pedromiranda.dev27@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
