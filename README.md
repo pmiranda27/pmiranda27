@@ -11,6 +11,8 @@
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
@@ -21,6 +23,8 @@
   
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   
+  <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -30,7 +34,5 @@
 <br />
 
 <div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=pmiranda27&show_icons=true&count_private=true&hide_border=true&title_color=CA0E68&icon_color=FFFFFF&text_color=df428d&bg_color=181818"/>
-
-  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=pmiranda27&theme=dracula&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500&background=181818&stroke=DF428D&ring=CA0E68&currStreakLabel=CA0E68&currStreakNum=DF428D&sideNums=DF428D&sideLabels=CA0E68" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=pmiranda27&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
 </div>
