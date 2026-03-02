@@ -56,10 +56,9 @@
   Contact me:
 </p>
 <p align="left">
-  <a href="pedromiranda.dev27@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="www.linkedin.com/in/pedro-miranda-dev27" target="_blank" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  [![Email](https://img.shields.io/badge/Email-Send%20me%20a%20message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromiranda.dev27@gmail.com)
+ 
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Visit%20my%20profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-miranda-dev27)
 </p>
 
 <br />
