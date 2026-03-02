@@ -34,5 +34,5 @@
 <br />
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=pmiranda27&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
+  <img height="170px" src="https://streak-stats.demolab.com?user=pmiranda27&theme=tokyonight&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&hide_current_streak=true" alt="GitHub Streak" />
 </div>
