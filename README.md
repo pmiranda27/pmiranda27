@@ -60,8 +60,8 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   
-  <a href="www.linkedin.com/in/pedro-miranda-dev27" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/pedro-miranda-dev27" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pedro-miranda-dev27" target="_blank" title="Visit my LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
