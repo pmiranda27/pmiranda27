@@ -1,10 +1,14 @@
-<div align="center">
-  <img style="border-radius: 20px" src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&border-radius=45px&letterSpacing=1.5px&duration=3500&pause=1500&color=CA0E68&background=181818&center=true&vCenter=true&width=480&lines=Hello%2C+my+name+is+Pedro+Miranda.;I'm+a+full-stack+developer.;Looking+forward+to+working+with+you!"/>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<br />
+<p align="left"> 
+  My name is Pedro Miranda and I’m a developer passionate about technology and turning ideas into practical solutions.
+  
+  My main <strong>stack</strong> includes Java, Kotlin, Python, and JavaScript, with a strong focus on back-end development and building REST APIs. I also have experience with HTML, CSS, Git, and relational databases, always applying clean code principles, object-oriented programming, and best software engineering practices.
 
-<div style="display: flex;" align="center">
+  Currently, I’m studying in the Technology field and working on personal projects to deepen my knowledge in software architecture, service integrations, and scalable application development. I’m constantly learning and improving my technical skills with every new challenge.
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,7 +32,32 @@
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
   
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
+</p>
+
+<p align="left">
+  Work Environment:
+  
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+</p>
+
+<p align="left">
+  Contact me:
+</p>
+
+<p align="left">
+  <a href="pedromiranda.dev27@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="www.linkedin.com/in/pedro-miranda-dev27" target="_blank" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
 
 <br />
 <br />
